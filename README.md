@@ -2,9 +2,9 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: 
+*NAME*: KOUSHIK MANIKANTA SOWDALA
 
-*INTERN ID*: CT12QRY
+*INTERN ID*: CT12QTV
 
 *DOMAIN*: ARTIFICIAL INTELLIGENCE
 
@@ -38,3 +38,4 @@ Automated Report Generation: This can be used for summarizing lengthy reports, r
 Natural Language Processing (NLP): This demonstrates a basic application of NLP, specifically in extracting the main ideas from larger bodies of text.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/4021f026-2803-4d09-94dd-c6cb8d6f80b3)
